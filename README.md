@@ -1,7 +1,6 @@
 # VisionCart
 
 Real-time automated checkout using **YOLOv8n, OpenCV, and Streamlit**.
-A fourth-year B.Tech computer vision project.
 
 ## Features
 
